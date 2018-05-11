@@ -1,0 +1,31 @@
+{
+  "name": "docker_node_tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial to deploy an Node.js application on Docker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudineyjr/docker_node_tutorial.git"
+  },
+  "keywords": [
+    "nodejs",
+    "docker",
+    "deploy",
+    "container",
+    "javascript",
+    "tutorial"
+  ],
+  "author": "Claudiney Junior <claudiney.jr@caquicoders.com.br>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudineyjr/docker_node_tutorial/issues"
+  },
+  "homepage": "https://github.com/claudineyjr/docker_node_tutorial#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
