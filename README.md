@@ -15,7 +15,7 @@ $ docker run -p 49160:3000 -d seunome/docker-node-tutorial
 
 ### Acesse sua aplicação:
 
-Em seu navegador vá até `localhost:3000`
+Em seu navegador vá até `localhost:49160`
 
 ### Comandos úteis:
 
